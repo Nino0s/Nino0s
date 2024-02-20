@@ -1,0 +1,14 @@
+C:\Users\Nino Lawan\source\repos\Food1\bin\Debug\net8.0\Food1.exe
+C:\Users\Nino Lawan\source\repos\Food1\bin\Debug\net8.0\Food1.deps.json
+C:\Users\Nino Lawan\source\repos\Food1\bin\Debug\net8.0\Food1.runtimeconfig.json
+C:\Users\Nino Lawan\source\repos\Food1\bin\Debug\net8.0\Food1.dll
+C:\Users\Nino Lawan\source\repos\Food1\bin\Debug\net8.0\Food1.pdb
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.AssemblyInfoInputs.cache
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.AssemblyInfo.cs
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.csproj.CoreCompileInputs.cache
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.dll
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\refint\Food1.dll
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.pdb
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\Food1.genruntimeconfig.cache
+C:\Users\Nino Lawan\source\repos\Food1\obj\Debug\net8.0\ref\Food1.dll
